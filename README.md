@@ -9,7 +9,6 @@
 
 ## About me
 + *Mechatronics Engineer Graduate*
-+ *Microsoft Learn Student Ambassador*
 + *Bookworm*
 
 ## Foreword

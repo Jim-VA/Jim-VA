@@ -1,7 +1,3 @@
-<p align="center">
-  <img width= "500" src= https://github.com/Jim-VA/Welcome/assets/37945754/f2d0be90-9be7-47eb-9e74-13c717c958d0>
-</p>
-
 # ⟢ Welcome — I'm Ada ⟢
 I'm a Mechatronics Engineer Graduate, future MsC in Applied AI, Cybersecurity Enthusiast, bookworm, and crocheter! 
 
@@ -16,5 +12,8 @@ Here you will be able to find both personal and academic projects that I've deve
 ## 🛠️ Skills & tech I work with
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,opencv,vscode,html,css,js,bootstrap,arduino,matlab,notion,obsidian&perline=4)](https://skillicons.dev)
 
-
 #### <p align="center">  ˖ ݁𖥔 ݁˖  インジェニアラ  ˖ ݁𖥔 ݁˖ <br> ᵢₙgₑₙᵢₐᵣₐ</br>  </p>
+***
+<p align="center">
+  <img width= "500" src= https://github.com/Jim-VA/Welcome/assets/37945754/f2d0be90-9be7-47eb-9e74-13c717c958d0>
+</p>

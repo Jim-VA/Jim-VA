@@ -9,10 +9,10 @@ Here you will be able to find both personal and academic projects that I've deve
 <p align="right"> ^. .^₎⟆ <i>Fun fact:</i> I love cats and collect books about 'em!  </p>
 
 ## 🌱 Current Focus & Growth
-- I’m currently working on this page and new upcoming projects! (P.D.: stay tuned)
+- I’m currently working on my personal web page and new upcoming projects! --> P.D.: stay tuned (^u^)
 - I’m currently learning networking basics and cybersecurity.
 
-## 🛠️ Skills & tech I work with
+## 🛠️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,sklearn,opencv,vscode,html,css,js,bootstrap,arduino,matlab,notion,obsidian&perline=4" />

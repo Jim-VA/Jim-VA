@@ -8,7 +8,7 @@ Here you will be able to find both personal and academic projects that I've deve
 
 <p align="right"> ^. .^₎⟆ <i>Fun fact:</i> I love cats and collect books about 'em!  </p>
 
-## 🌱 Quick updates
+## 🌱 Current Focus & Growth
 - I’m currently working on this page and new upcoming projects! (P.D.: stay tuned)
 - I’m currently learning networking basics and cybersecurity.
 

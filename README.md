@@ -1,11 +1,9 @@
-# ✨Welcome everyone✨
-****
-
 <p align="center">
   <img width= "500" src= https://github.com/Jim-VA/Welcome/assets/37945754/f2d0be90-9be7-47eb-9e74-13c717c958d0>
 </p>
 
-
+# ✨Welcome everyone✨
+****
 
 ## About me
 + *Mechatronics Engineer Graduate*

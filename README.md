@@ -3,7 +3,7 @@
 </p>
 
 # ⟢ Welcome — I'm Ada ⟢
-****
+
 + *Mechatronics Engineer Graduate*
 + *Bookworm*
   

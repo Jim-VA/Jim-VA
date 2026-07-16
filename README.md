@@ -1,7 +1,7 @@
 # ⟢ Welcome — I'm Ada ⟢
 <p>
   I'm a Mechatronics Engineer Graduate, future MsC in Applied AI, Cybersecurity Enthusiast,
-  <img src="https://github.com/Jim-VA/Welcome/assets/37945754/f2d0be90-9be7-47eb-9e74-13c717c958d0" style="vertical-align: middle; width: 100px; height: auto;"> 
+  <img src="https://github.com/Jim-VA/Welcome/assets/37945754/f2d0be90-9be7-47eb-9e74-13c717c958d0" style="vertical-align: middle; width: 200px; height: auto;"> 
  <br> bookworm, and crocheter! </br>
 </p>
 Here you will be able to find both personal and academic projects that I've developed ( individually and with teammates) throught my professional studies. I hope that my project repositories are helpful, please feel free to contact me if you have any comments, questions or suggestions.  

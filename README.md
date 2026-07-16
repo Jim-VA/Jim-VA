@@ -19,5 +19,6 @@ Here you will be able to find both personal and academic projects that I've deve
   </a>
 </p>
 
+***
 #### <p align="center">  ˖ ݁𖥔 ݁˖  インジェニアラ  ˖ ݁𖥔 ݁˖ <br> ᵢₙgₑₙᵢₐᵣₐ</br>  </p>
 

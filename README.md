@@ -4,11 +4,13 @@
 
 # ⟢ Welcome — I'm Ada ⟢
 ****
-
-## About me
 + *Mechatronics Engineer Graduate*
 + *Bookworm*
-
-## Foreword
+  
 Here you will be able to find both personal and academic projects that I've developed ( individually and with teammates) throught my professional studies. 
 I hope that my project repositories are helpful and enjoyable, please feel free to contact me if you have any comments, questions or suggestions. 🤍
+
+## What I'm working on
+
+
+## Tech I work with

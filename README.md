@@ -21,7 +21,7 @@ Here you will be able to find both personal and academic projects that I've deve
     <li>semiconductors</li>
   </ul>
 
-## 🛠️ Skills
+## 🛠️ Stack Technology | Tools | Technical Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,sklearn,opencv,vscode,html,css,js,bootstrap,arduino,matlab,notion,obsidian&perline=4" />
